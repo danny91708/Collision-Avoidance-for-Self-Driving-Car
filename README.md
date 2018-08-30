@@ -2,6 +2,8 @@
 ## Introduction
 The first model is to make the car driving on the road without collision and the second model is to judge the safety around the car (0 represents "unsafe" and 1 represents "safe").
 
+## File
+### The fist model
 - DataExplorationAndPreparation.py (including Cooking.py) is the data preprocessing for the first model.
 
 - TrainModel.py (including Generator.py) is to train the first model.
@@ -12,7 +14,7 @@ The first model is to make the car driving on the road without collision and the
 
 - AirSimClient.py (to connect Airsim)
 
-> safe (the second model)
+### The Second model (safe)
 
 - image_collection.py is to collect the images from Airsim.
 
