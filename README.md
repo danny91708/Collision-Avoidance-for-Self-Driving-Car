@@ -1,6 +1,7 @@
 # Collision-Avoidance-for-Self-Driving-Car
 ## Introduction
 The first model is to make the car driving on the road without collision and the second model is to judge the safety around the car (0 represents "unsafe" and 1 represents "safe").
+The simulator is Airsim.
 
 ## File
 ### The fist model
