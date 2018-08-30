@@ -14,7 +14,7 @@ The first model is to make the car driving on the road without collision and the
 
 - AirSimClient.py (to connect Airsim)
 
-### The Second model (safe)
+### The second model (safe)
 
 - image_collection.py is to collect the images from Airsim.
 
